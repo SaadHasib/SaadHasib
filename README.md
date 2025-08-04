@@ -1,4 +1,3 @@
 # Saad Hasib
 
-Primarily a Python developer, working in the fields of machine learning and data science.  
-Well versed in JavaScript and the MERN stack to provide full stack solutions.
+Full Stack Developer specializing in end-to-end web application development using the MERN stack. Skilled in building responsive UIs, dynamic animations, and interactive data visualizations, backed by RESTful APIs (Node.js, Python) and efﬁcient database solutions (MongoDB). Proﬁcient in cloud deployment and CI/CD (GitHub Actions). Also experienced in cross-platform development, including desktop and IoT applications.

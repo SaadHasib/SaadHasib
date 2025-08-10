@@ -1,3 +1,3 @@
 # Saad Hasib
 
-Full Stack Developer specializing in end-to-end web application development using the MERN stack. Skilled in building responsive UIs, dynamic animations, and interactive data visualizations, backed by RESTful APIs (Node.js, Python) and efﬁcient database solutions (MongoDB). Proﬁcient in cloud deployment and CI/CD (GitHub Actions). Also experienced in cross-platform development, including desktop and IoT applications.
+MERN stack developer specializing in React development, UI frameworks, and data visualization. Experienced in building and deploying scalable applications using Node.js, Express.js, and MongoDB, with proven expertise in RESTful API development across JavaScript and Python ecosystems. Proﬁcient in AWS cloud services deployment and desktop application development with Electron.js. Eager to contribute to an innovative team while expanding technical expertise and professional capabilities.
